@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me?
 
-<!---
+`
 IT by Mind Teacher by Heart
---->
+`
